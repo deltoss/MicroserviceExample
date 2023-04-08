@@ -36,7 +36,7 @@ Service Name | Description
     - Mediator
 - [ ] Docker
 - [ ] Event Bus (RabbitMQ)
-- [ ] Implement at 2+ microservices with .Net.
+- [ ] Implement at least 2+ microservices with .Net.
 - [ ] Unit Tests
 - [ ] Event-Driven Architecture.
 - [ ] CI
