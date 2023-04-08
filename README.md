@@ -7,6 +7,7 @@
   - [Origin](#origin)
   - [Alpha](#alpha)
   - [Beta](#beta)
+  - [Gamma](#gamma)
 
 ## Problem Domain
 
@@ -57,6 +58,14 @@ Service Name | Description
     - Jest
 
 ### Beta
+
+- SPA Frontend
+  - React
+  - NextJS
+- Microfrontend
+  - Meta Frameworks
+
+### Gamma
 
 - [ ] Monitoring & Alerts.
   - E.g. Prometheus
