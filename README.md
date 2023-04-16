@@ -18,7 +18,6 @@ We need to make **Marktopia** scalable, so we're building it as a Microservice A
 Service Name | Description
 --- | ---
 **Catalog Service** | This microservice will be responsible for managing the list of available Markdowns, including their titles, authors, and other relevant details. It will provide APIs for adding, updating, and deleting Markdowns from the catalog, as well as searching for Markdowns based on various criteria.
-**Pricing Service** | This microservice will manage the pricing information for the Markdown documents. It will store the cost and selling price for each Markdown document and provide APIs to update prices as needed.
 **Order Processing Service** | This microservice will be responsible for processing customer orders. including creating new orders, payment processing, updating order status, and sending notifications to users. It will interact with the pricing services to check the price of the Markdown documents.
 **Shopping Cart Service** | This microservice would manage the shopping cart functionality, including adding and removing items, calculating totals, and handling checkout.
 **Authentication and Authorization Service** | This microservice would handle user login and authentication, as well as authorization for accessing different parts of the application.
